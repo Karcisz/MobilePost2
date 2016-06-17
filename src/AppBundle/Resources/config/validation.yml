@@ -1,0 +1,14 @@
+AppBundle\Entity\PostmanTracking:
+    properties:
+        lat:
+               - NotBlank: ~
+               - NotNull: ~
+        lang:
+               - NotBlank: ~
+               - NotNull: ~
+        distance:
+               - NotBlank: ~
+               - NotNull: ~
+        postmanId:
+               - NotBlank: ~
+               - NotNull: ~
